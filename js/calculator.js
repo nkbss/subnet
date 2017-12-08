@@ -1,5 +1,3 @@
-
-
   var MAXBIT = 32
   var BLOCKS = 4
 
