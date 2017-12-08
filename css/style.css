@@ -1,0 +1,20 @@
+.block{
+  border:1px solid #cecece;
+  border-radius: 25px;
+  padding-top:3%;
+  padding-left:15%;
+}
+
+.submit{
+  margin-left: 35%;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+.hidden{
+  margin-top: 2%;
+}
+
+#myId{
+  margin-left: 77%;
+}
